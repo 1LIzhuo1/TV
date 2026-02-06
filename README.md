@@ -79,6 +79,11 @@
 
 部署完成后即可通过分配的域名访问，也可以绑定自定义域名。
 
+### Cloudflare Pages（非官方）
+
+本项目官方文档未提供 Cloudflare Pages 部署说明，如需尝试可参考实验性指南：
+- [Cloudflare Pages（非官方）部署指南](docs/cloudflare-pages.md)
+
 #### Upstash Redis 支持
 
 0. 完成普通部署并成功访问。
